@@ -1,1 +1,1 @@
-echo "Running script 2 on github webook update"
+echo "Print some words on the screen"
